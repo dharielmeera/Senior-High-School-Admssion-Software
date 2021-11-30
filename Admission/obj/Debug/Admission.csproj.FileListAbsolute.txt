@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Admission\bin\Debug\Admission.exe.config
+C:\Users\User\source\repos\Admission\bin\Debug\Admission.exe
+C:\Users\User\source\repos\Admission\bin\Debug\Admission.pdb
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.Form1.resources
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.Properties.Resources.resources
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.exe
+C:\Users\User\source\repos\Admission\obj\Debug\Admission.pdb
